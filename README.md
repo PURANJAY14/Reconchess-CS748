@@ -54,3 +54,4 @@ This repository includes scripts for replaying chess games, evaluating move scor
 - **NewOpponentModel.ipynb:**
   This notebook was used to train the weights of the lc0 network.
 
+
